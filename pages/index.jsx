@@ -27,6 +27,7 @@ export default function Home() {
               <p className='text-[#ffe347]'>JIT is on</p>
             </div>
             <CustomLink href='/modal'>Modal</CustomLink>
+            <CustomLink href='/accordion'>Accordion</CustomLink>
             <footer className='absolute text-gray-300 bottom-2'>
               © {new Date().getFullYear()}
             </footer>
