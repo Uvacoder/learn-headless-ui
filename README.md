@@ -1,5 +1,5 @@
 This is a NextJs and Tailwind project bootstrapped using nextjs-tailwind-starter created by [Theodorus Clarence](https://github.com/theodorusclarence/nextjs-tailwind-starter).
-
+-
 See the deployment on [https://nextjs-tailwind-starter.theodorusclarence.com/](https://nextjs-tailwind-starter.theodorusclarence.com/)
 
 ![Screenshots](https://www.site-shot.com/cached_image/3aslTKJcEeuO5AJCrBEAAg)
